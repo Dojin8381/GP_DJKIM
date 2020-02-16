@@ -4,7 +4,7 @@
 //
 //  Created by 골든플래닛 on 27/06/2019.
 //  Copyright © 2019 골든플래닛. All rights reserved.
-//
+//  2020_Ebay_GoogleAnalytisBuilder_SourceCode
 
 #import <Foundation/Foundation.h>
 #import "AppDelegate.h"
